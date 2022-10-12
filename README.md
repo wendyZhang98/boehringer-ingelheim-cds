@@ -1,0 +1,1 @@
+- [learning notes](https://medium.com/@WenxinZhang98/ds-internship-takeaways-a5a25873cdc5)
